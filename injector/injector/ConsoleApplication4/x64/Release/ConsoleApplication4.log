@@ -1,0 +1,8 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\colga\OneDrive\Documents\Console-dll-injector-in-C--main\ConsoleApplication4\ConsoleApplication4.cpp(109,10): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  Generating code
+  1 of 69 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication4.vcxproj -> C:\Users\colga\OneDrive\Documents\Console-dll-injector-in-C--main\x64\Release\ConsoleApplication4.exe
